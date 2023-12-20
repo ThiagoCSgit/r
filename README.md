@@ -1,10 +1,3 @@
-## (Material apenas) RPG React
-
----
-
-Este é um repositório contendo apenas o **material necessário** para criar o projeto [RPG React](https://github.com/suporteb7web/rpg-react).
-
----
-
-Por:
-[B7Web](https://b7web.com.br)
+## Mapa simples de RPG feito com React e TypeScript.
+Permite a movimentação do personagem e colisão com obstáculos no mapa.
+![rpg-game](https://github.com/ThiagoCSgit/rpg-game/assets/57235729/9d4bf669-edd6-43df-970e-17ab3a494e50)
